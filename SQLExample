@@ -1,0 +1,3 @@
+SELECT *
+FROM Table
+Where Something > 10
